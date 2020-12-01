@@ -9,6 +9,14 @@
       "type": "json"
     },
     {
+      "filename": "packages/eslint-config-typescript/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "packages/eslint-config-typescript-react/package.json",
+      "type": "json"
+    },
+    {
       "filename": "packages/prettier-config/package.json",
       "type": "json"
     }
