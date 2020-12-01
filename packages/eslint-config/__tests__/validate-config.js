@@ -8,9 +8,11 @@ test('load config in eslint to validate all rule syntax is correct', (t) => {
   })
 
   const code = `
-  const Hello = ({ name }: { name: string }) => {
-    return <div>Hello, {name}!</div>
+  const greet = (name) => {
+    console.log(\`Hello, \${name}!\`)
   }
+
+  greet('John')
 `
 
   const result = cli.executeOnText(code)

@@ -4,22 +4,9 @@ const config = {
     es6: true,
     node: true,
   },
-  root: true,
-  parser: '@typescript-eslint/parser',
-  plugins: ['@typescript-eslint', 'import', 'jsx-a11y', 'react-hooks'],
-  extends: [
-    'eslint:recommended',
-    'plugin:react/recommended',
-    'plugin:@typescript-eslint/eslint-recommended',
-    'plugin:@typescript-eslint/recommended',
-    'prettier',
-    'prettier/react',
-    'prettier/@typescript-eslint',
-    'plugin:import/typescript',
-  ],
+  plugins: ['import'],
+  extends: ['eslint:recommended', 'prettier'],
   rules: {
-    '@typescript-eslint/explicit-function-return-type': 'off',
-    '@typescript-eslint/no-var-requires': 'off',
     'import/no-default-export': 'error',
     'import/no-deprecated': 'warn',
     'import/order': [
@@ -40,15 +27,9 @@ const config = {
       },
     ],
     'import/prefer-default-export': 'off',
-    'react-hooks/exhaustive-deps': 'warn',
-    'react/prop-types': 'off',
-    'react/react-in-jsx-scope': 'off',
   },
   settings: {
     'import/ignore': ['node_modules'],
-    react: {
-      version: 'detect',
-    },
   },
 }
 
