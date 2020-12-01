@@ -1,3 +1,3 @@
-# @john-d-pelingo/eslint-config
+# @jdp-dev/eslint-config
 
 My shareable [ESLint](https://eslint.org/) config.

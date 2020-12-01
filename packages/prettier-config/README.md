@@ -1,3 +1,3 @@
-# @john-d-pelingo/prettier-config
+# @jdp-dev/prettier-config
 
 My shareable [Prettier](https://prettier.io/) config.

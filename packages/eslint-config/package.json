@@ -1,5 +1,5 @@
 {
-  "name": "@john-d-pelingo/eslint-config",
+  "name": "@jdp-dev/eslint-config",
   "version": "0.0.1",
   "description": "My shareable ESLint config.",
   "private": false,

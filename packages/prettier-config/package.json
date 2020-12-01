@@ -1,5 +1,5 @@
 {
-  "name": "@john-d-pelingo/prettier-config",
+  "name": "@jdp-dev/prettier-config",
   "version": "0.0.1",
   "description": "My shareable Prettier config.",
   "private": false,
