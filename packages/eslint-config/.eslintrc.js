@@ -50,6 +50,6 @@ const config = {
       version: 'detect',
     },
   },
-};
+}
 
-module.exports = config;
+module.exports = config
