@@ -1,6 +1,6 @@
 {
   "name": "@jdp-dev/prettier-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My shareable Prettier config.",
   "private": false,
   "homepage": "https://github.com/john-d-pelingo/jdp-scripts",
