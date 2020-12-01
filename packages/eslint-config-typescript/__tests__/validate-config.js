@@ -8,8 +8,13 @@ test('load config in eslint to validate all rule syntax is correct', (t) => {
   })
 
   const code = `
-  const greet = (name: string): void => {
-    console.log(\`Hello, \${name}!\`)
+  import { getName } from 'lib'
+
+  import { exclamationMark } from './const'
+
+  const greet = (): void => {
+    const name = getName()
+    console.log(\`Hello, \${name}\${exclamationMark}\`)
   }
 `
 
