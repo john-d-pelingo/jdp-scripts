@@ -6,7 +6,7 @@ const config = {
   },
   root: true,
   parser: '@typescript-eslint/parser',
-  plugins: ['@typescript-eslint', 'import', 'jsx-a11y', 'jest', 'react-hooks'],
+  plugins: ['@typescript-eslint', 'import', 'jsx-a11y', 'react-hooks'],
   extends: [
     'eslint:recommended',
     'plugin:react/recommended',
