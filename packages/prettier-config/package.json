@@ -1,0 +1,25 @@
+{
+  "name": "@john-d-pelingo/prettier-config",
+  "version": "0.0.1",
+  "description": "My shareable Prettier config.",
+  "private": false,
+  "homepage": "https://github.com/john-d-pelingo/jdp-scripts/packages/prettier-config",
+  "author": {
+    "email": "johndarrylpelingo@gmail.com",
+    "name": "John Darryl Pelingo",
+    "url": "https://johndpelingo.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john-d-pelingo/jdp-scripts",
+    "directory": "packages/prettier-config"
+  },
+  "bugs": {
+    "url": "https://github.com/john-d-pelingo/jdp-scripts/issues"
+  },
+  "main": "index.json",
+  "scripts": {
+    "test": "tape __tests__/*.js"
+  }
+}
