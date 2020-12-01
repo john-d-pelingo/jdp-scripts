@@ -18,6 +18,10 @@
   "bugs": {
     "url": "https://github.com/john-d-pelingo/jdp-scripts/issues"
   },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --config=.eslintrc.js",

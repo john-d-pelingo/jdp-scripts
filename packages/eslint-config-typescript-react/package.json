@@ -19,6 +19,10 @@
     "url": "https://github.com/john-d-pelingo/jdp-scripts/issues"
   },
   "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
   "scripts": {
     "lint": "eslint . --config=.eslintrc.js",
     "test": "npm run lint && tape __tests__/*.js"
