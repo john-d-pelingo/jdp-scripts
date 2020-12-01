@@ -4,7 +4,6 @@ const config = {
     es6: true,
     node: true,
   },
-  root: true,
   parser: '@typescript-eslint/parser',
   plugins: ['@typescript-eslint', 'import', 'jsx-a11y', 'react-hooks'],
   extends: [
