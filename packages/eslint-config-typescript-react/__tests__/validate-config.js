@@ -8,8 +8,13 @@ test('load config in eslint to validate all rule syntax is correct', (t) => {
   })
 
   const code = `
-  const Hello = ({ name }: { name: string }) => {
-    return <div>Hello, {name}!</div>
+  import { getName } from 'lib'
+
+  import { exclamationMark } from './const'
+
+  const Hello = ({ surname }: { surname: string }) => {
+    const fullName = \`\${getName()} + \${surname}\`
+    return <div>Hello, {fullName}{exclamationMark}</div>
   }
 `
 
