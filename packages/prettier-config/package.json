@@ -24,10 +24,13 @@
   ],
   "main": "index.json",
   "scripts": {
-    "prepublish": "npm run test",
+    "prepublishOnly": "npm run test",
     "test": "tape __tests__/*.js"
   },
   "peerDependencies": {
     "prettier": "^2.2.1"
+  },
+  "devDependencies": {
+    "tape": "^5.0.1"
   }
 }

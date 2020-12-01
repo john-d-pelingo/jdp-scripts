@@ -1,6 +1,6 @@
 {
   "name": "@jdp-dev/eslint-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "My shareable ESLint config for JavaScript projects.",
   "private": false,
   "homepage": "https://github.com/john-d-pelingo/jdp-scripts",
@@ -25,8 +25,9 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --config=.eslintrc.js",
-    "prepublish": "npm run test",
-    "test": "npm run lint && tape __tests__/*.js"
+    "prepublishOnly": "npm run test",
+    "pretest": "npm run lint",
+    "test": "tape __tests__/*.js"
   },
   "peerDependencies": {
     "eslint": "^7.14.0",
@@ -36,5 +37,8 @@
     "eslint": "^7.14.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-import": "^2.22.1"
+  },
+  "devDependencies": {
+    "tape": "^5.0.1"
   }
 }
