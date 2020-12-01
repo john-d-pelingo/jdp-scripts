@@ -18,7 +18,7 @@
   "prettier": "@jdp-dev/prettier-config",
   "scripts": {
     "format": "prettier --write './**/*.{js,ts,json,yml,yaml,css,html}'",
-    "prerelease": "yarn test",
+    "prerelease": "npm run test",
     "release": "standard-version",
     "test": "yarn workspaces run test"
   },

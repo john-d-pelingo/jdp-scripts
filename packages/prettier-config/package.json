@@ -24,6 +24,7 @@
   ],
   "main": "index.json",
   "scripts": {
+    "prepublish": "npm run test",
     "test": "tape __tests__/*.js"
   },
   "peerDependencies": {

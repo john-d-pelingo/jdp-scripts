@@ -25,6 +25,7 @@
   ],
   "scripts": {
     "lint": "eslint . --config=.eslintrc.js",
+    "prepublish": "npm run test",
     "test": "npm run lint && tape __tests__/*.js"
   },
   "peerDependencies": {
