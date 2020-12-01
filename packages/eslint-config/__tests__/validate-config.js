@@ -8,11 +8,16 @@ test('load config in eslint to validate all rule syntax is correct', (t) => {
   })
 
   const code = `
-  const greet = (name) => {
-    console.log(\`Hello, \${name}!\`)
+  const { getName } = require('lib')
+
+  const { exclamationMark } = require('./const')
+
+  const greet = () => {
+    const name = getName()
+    console.log(\`Hello, \${name}\${exclamationMark}\`)
   }
 
-  greet('John')
+  greet()
 `
 
   const result = cli.executeOnText(code)
