@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.3...v0.0.4) (2020-12-01)
+
+
+### Features
+
+* add eslint-config-typescript ([74b5606](https://github.com/john-d-pelingo/jdp-scripts/commit/74b5606daf48a12a7c09cebd27378f37072158de))
+* add eslint-config-typescript-react ([5eda24e](https://github.com/john-d-pelingo/jdp-scripts/commit/5eda24e744dcb25017c47386722905c88d18bb2d))
+* remove eslint-jest-plugin ([be649e2](https://github.com/john-d-pelingo/jdp-scripts/commit/be649e20218cd4bf54e7cd16b7aaa487c4ffa9f7))
+* use only JS in eslint-config ([82fc853](https://github.com/john-d-pelingo/jdp-scripts/commit/82fc8537482e00e5e9b77c18754b295308a6d28d))
+
+
+### Bug Fixes
+
+* fix test ([219934b](https://github.com/john-d-pelingo/jdp-scripts/commit/219934b8ec2832900ac9821b28001e1fd16c11dc))
+
 ### [0.0.3](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.2...v0.0.3) (2020-12-01)
 
 
