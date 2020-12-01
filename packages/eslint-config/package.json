@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "My shareable ESLint config.",
   "private": false,
-  "homepage": "https://github.com/john-d-pelingo/jdp-scripts/packages/eslint-config",
+  "homepage": "https://github.com/john-d-pelingo/jdp-scripts",
   "author": {
     "email": "johndarrylpelingo@gmail.com",
     "name": "John Darryl Pelingo",
