@@ -5,5 +5,4 @@
 - find a way to publish on github push
 - create multiple ESLint packages for:
   - JavaScript only
-  - Typescript only
   - TypeScript + React
