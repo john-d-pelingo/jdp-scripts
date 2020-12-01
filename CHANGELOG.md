@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.5...v0.0.6) (2020-12-01)
+
+
+### Features
+
+* add github workflow to auto-publish ([f9b3cac](https://github.com/john-d-pelingo/jdp-scripts/commit/f9b3cacd1ef0246c03e874ee21102b52ee6652ad))
+* add test before publish ([1508fd2](https://github.com/john-d-pelingo/jdp-scripts/commit/1508fd2e990b4c4accd275efe74826631ea6990b))
+* extend eslint-config-typescript ([3bccd4b](https://github.com/john-d-pelingo/jdp-scripts/commit/3bccd4b38af9e80b64ab0671be06464d9166fa52))
+* install dependencies first ([fbdf32e](https://github.com/john-d-pelingo/jdp-scripts/commit/fbdf32e9ed48532e59339c66cdd30716c7437d9e))
+* use github actions to publish ([2d5a508](https://github.com/john-d-pelingo/jdp-scripts/commit/2d5a508d1bb18254c5f4041780aa99d499145453))
+
+
+### Bug Fixes
+
+* add tape as dependencies to make npm work ([db9904c](https://github.com/john-d-pelingo/jdp-scripts/commit/db9904cd58822a4d8d10f1f4bf8a02691afe99bf))
+* fix pattern ([55baaec](https://github.com/john-d-pelingo/jdp-scripts/commit/55baaec161fe0b9aabb3c6d9d4344c7597ee27da))
+
 ### [0.0.5](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.4...v0.0.5) (2020-12-01)
 
 
