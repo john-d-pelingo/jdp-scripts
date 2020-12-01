@@ -5,7 +5,7 @@ const config = {
     node: true,
   },
   parser: '@typescript-eslint/parser',
-  plugins: ['@typescript-eslint', 'jsx-a11y'],
+  plugins: ['@typescript-eslint', 'import', 'jsx-a11y'],
   extends: [
     '@jdp-dev/eslint-config',
     'plugin:@typescript-eslint/eslint-recommended',
