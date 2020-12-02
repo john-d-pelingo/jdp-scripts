@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.10...v0.0.11) (2020-12-02)
+
+
+### Features
+
+* remove eslint jsx a11y plugin ([21934da](https://github.com/john-d-pelingo/jdp-scripts/commit/21934dafa320bbebbd82e44a542b2dab3a4cbd2f))
+
 ### [0.0.10](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.9...v0.0.10) (2020-12-02)
 
 
