@@ -8,6 +8,7 @@ My custom configurations when dealing with JavaScript applications.
 - [eslint-config-typescript](./packages/eslint-config-typescript)
 - [eslint-config-typescript-react](./packages/eslint-config-typescript-react)
 - [prettier-config](./packages/prettier-config)
+- [tsconfig](./packages/tsconfig)
 
 ## License
 
