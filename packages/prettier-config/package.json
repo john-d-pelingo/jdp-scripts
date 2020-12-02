@@ -19,8 +19,8 @@
     "url": "https://github.com/john-d-pelingo/jdp-scripts/issues"
   },
   "keywords": [
-    "eslint",
-    "eslintconfig"
+    "prettier",
+    "prettierconfig"
   ],
   "main": "index.json",
   "scripts": {
