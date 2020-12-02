@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.9](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.8...v0.0.9) (2020-12-02)
+
+
+### Features
+
+* add commit-lint config ([f2710d2](https://github.com/john-d-pelingo/jdp-scripts/commit/f2710d2ffdfd819be6bb2c32dbcfd578bfd8aa64))
+* add tsconfig ([3b8193c](https://github.com/john-d-pelingo/jdp-scripts/commit/3b8193ceaa2815ebe070756a11170dec62f81ced))
+
 ### [0.0.8](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.7...v0.0.8) (2020-12-02)
 
 ### [0.0.7](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.6...v0.0.7) (2020-12-02)
