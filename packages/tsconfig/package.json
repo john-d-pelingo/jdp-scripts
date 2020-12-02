@@ -30,9 +30,6 @@
   "peerDependencies": {
     "typescript": ">= 4.1"
   },
-  "dependencies": {
-    "typescript": "^4.1.2"
-  },
   "devDependencies": {
     "tape": "^5.0.1"
   }
