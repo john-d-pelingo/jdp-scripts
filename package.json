@@ -15,7 +15,7 @@
   "engines": {
     "node": ">=14"
   },
-  "prettier": "@jdp-dev/prettier-config",
+  "prettier": "./packages/prettier-config",
   "scripts": {
     "format": "prettier --write './**/*.{js,ts,json,yml,yaml,css,html}'",
     "prerelease": "npm run test",
