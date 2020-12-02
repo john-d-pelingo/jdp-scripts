@@ -4,9 +4,7 @@ My shareable [ESLint](https://eslint.org/)
 [config](https://eslint.org/docs/user-guide/configuring) for
 [TypeScript](https://www.typescriptlang.org/) projects.
 
-## Install
-
-Install `@jdp-dev/eslint-config-typescript`:
+## Installation
 
 ```shell script
 npm install --save-dev @jdp-dev/eslint-config-typescript
@@ -18,7 +16,9 @@ or
 yarn add --dev @jdp-dev/eslint-config-typescript
 ```
 
-Then, add `@jdp-dev/eslint-config-typescript` to the `"extends"` array in your
+## Usage
+
+Add `@jdp-dev/eslint-config-typescript` to the `"extends"` array in your
 `.eslintrc.*` file.
 
 <!-- prettier-ignore -->

@@ -3,9 +3,7 @@
 My shareable [Prettier](https://prettier.io/)
 [config](https://prettier.io/docs/en/configuration.html).
 
-## Install
-
-Install `@jdp-dev/prettier-config`:
+## Installation
 
 ```shell script
 npm install --save-dev @jdp-dev/prettier-config
@@ -17,7 +15,9 @@ or
 yarn add --dev @jdp-dev/prettier-config
 ```
 
-Then, reference it in your `package.json`.
+## Usage
+
+Reference `@jdp-dev/prettier-config` in your `package.json`.
 
 <!-- prettier-ignore -->
 ```json

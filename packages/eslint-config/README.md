@@ -4,9 +4,7 @@ My shareable [ESLint](https://eslint.org/)
 [config](https://eslint.org/docs/user-guide/configuring) for
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) projects.
 
-## Install
-
-Install `@jdp-dev/eslint-config`:
+## Installation
 
 ```shell script
 npm install --save-dev @jdp-dev/eslint-config
@@ -18,8 +16,10 @@ or
 yarn add --dev @jdp-dev/eslint-config
 ```
 
-Then, add `@jdp-dev/eslint-config` to the `"extends"` array in your
-`.eslintrc.*` file.
+## Usage
+
+Add `@jdp-dev/eslint-config` to the `"extends"` array in your `.eslintrc.*`
+file.
 
 <!-- prettier-ignore -->
 ```json

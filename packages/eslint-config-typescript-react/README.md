@@ -5,9 +5,7 @@ My shareable [ESLint](https://eslint.org/)
 [TypeScript](https://www.typescriptlang.org/) [React](https://reactjs.org/)
 projects.
 
-## Install
-
-Install `@jdp-dev/eslint-config-typescript-react`:
+## Installation
 
 ```shell script
 npm install --save-dev @jdp-dev/eslint-config-typescript-react
@@ -19,8 +17,10 @@ or
 yarn add --dev @jdp-dev/eslint-config-typescript-react
 ```
 
-Then, add `@jdp-dev/eslint-config-typescript-react` to the `"extends"` array in
-your `.eslintrc.*` file.
+## Usage
+
+Add `@jdp-dev/eslint-config-typescript-react` to the `"extends"` array in your
+`.eslintrc.*` file.
 
 <!-- prettier-ignore -->
 ```json
