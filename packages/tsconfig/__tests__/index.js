@@ -1,6 +1,6 @@
 const test = require('tape')
 
-test('entry point parses', (t) => {
+test('config files parse', (t) => {
   t.doesNotThrow(() => require('..'), 'index does not throw')
   t.doesNotThrow(
     () => require('../tsconfig.base.json'),
