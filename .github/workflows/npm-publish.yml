@@ -36,3 +36,8 @@ jobs:
         with:
           package: './packages/prettier-config/package.json'
           token: ${{ secrets.NPM_AUTH_TOKEN }}
+      - name: Publish tsconfig
+        uses: JS-DevTools/npm-publish@v1
+        with:
+          package: './packages/tsconfig/package.json'
+          token: ${{ secrets.NPM_AUTH_TOKEN }}

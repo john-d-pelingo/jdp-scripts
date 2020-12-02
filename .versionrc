@@ -19,6 +19,10 @@
     {
       "filename": "packages/prettier-config/package.json",
       "type": "json"
+    },
+    {
+      "filename": "packages/tsconfig/package.json",
+      "type": "json"
     }
   ]
 }

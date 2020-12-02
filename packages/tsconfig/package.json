@@ -1,0 +1,39 @@
+{
+  "name": "@jdp-dev/tsconfig",
+  "version": "0.0.8",
+  "description": "My shareable TypeScript config.",
+  "private": false,
+  "homepage": "https://github.com/john-d-pelingo/jdp-scripts",
+  "author": {
+    "email": "johndarrylpelingo@gmail.com",
+    "name": "John Darryl Pelingo",
+    "url": "https://johndpelingo.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john-d-pelingo/jdp-scripts",
+    "directory": "packages/tsconfig"
+  },
+  "bugs": {
+    "url": "https://github.com/john-d-pelingo/jdp-scripts/issues"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "main": "tsconfig.base.json",
+  "scripts": {
+    "prepublishOnly": "npm run test",
+    "test": "tape __tests__/*.js"
+  },
+  "peerDependencies": {
+    "typescript": ">= 4.1"
+  },
+  "dependencies": {
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {
+    "tape": "^5.0.1"
+  }
+}
