@@ -1,6 +1,7 @@
 # @jdp-dev/eslint-config [![GitHub Build Status][shield-github-build-status]][shield-github-build-status] [![npm][shield-npm]][npm] [![MIT License][shield-license]][license]
 
-My shareable [ESLint](https://eslint.org/) config for
+My shareable [ESLint](https://eslint.org/)
+[config](https://eslint.org/docs/user-guide/configuring) for
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) projects.
 
 ## Install

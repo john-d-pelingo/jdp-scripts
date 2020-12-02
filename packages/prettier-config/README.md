@@ -1,6 +1,7 @@
 # @jdp-dev/prettier-config [![GitHub Build Status][shield-github-build-status]][shield-github-build-status] [![npm][shield-npm]][npm] [![MIT License][shield-license]][license]
 
-My shareable [Prettier](https://prettier.io/) config.
+My shareable [Prettier](https://prettier.io/)
+[config](https://prettier.io/docs/en/configuration.html).
 
 ## Install
 

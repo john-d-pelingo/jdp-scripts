@@ -1,6 +1,7 @@
 # @jdp-dev/eslint-config-typescript-react [![GitHub Build Status][shield-github-build-status]][shield-github-build-status] [![npm][shield-npm]][npm] [![MIT License][shield-license]][license]
 
-My shareable [ESLint](https://eslint.org/) config for
+My shareable [ESLint](https://eslint.org/)
+[config](https://eslint.org/docs/user-guide/configuring) for
 [TypeScript](https://www.typescriptlang.org/) [React](https://reactjs.org/)
 projects.
 
