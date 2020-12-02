@@ -32,9 +32,10 @@ Or, you can use it in other ways as described in the
 
 ## License
 
-[MIT][license] &copy; 2020-present
+[MIT][license] &copy; [John Darryl Pelingo][me]
 
 [license]: ../../LICENSE
+[me]: https://johndpelingo.com/
 [npm]: https://npmjs.org/package/@jdp-dev/prettier-config
 [shield-github-build-status]:
   https://github.com/john-d-pelingo/jdp-scripts/workflows/npm-publish/badge.svg

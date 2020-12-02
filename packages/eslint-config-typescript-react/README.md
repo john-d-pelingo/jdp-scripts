@@ -33,9 +33,10 @@ your `.eslintrc.*` file.
 
 ## License
 
-[MIT][license] &copy; 2020-present
+[MIT][license] &copy; [John Darryl Pelingo][me]
 
 [license]: ../../LICENSE
+[me]: https://johndpelingo.com/
 [npm]: https://npmjs.org/package/@jdp-dev/eslint-config-typescript-react
 [shield-github-build-status]:
   https://github.com/john-d-pelingo/jdp-scripts/workflows/npm-publish/badge.svg

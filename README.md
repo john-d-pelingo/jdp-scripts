@@ -11,9 +11,10 @@ My custom configurations when dealing with JavaScript applications.
 
 ## License
 
-[MIT][license] &copy; 2020-present
+[MIT][license] &copy; [John Darryl Pelingo][me]
 
 [license]: LICENSE
+[me]: https://johndpelingo.com/
 [shield-github-build-status]:
   https://github.com/john-d-pelingo/jdp-scripts/workflows/npm-publish/badge.svg
 [shield-license]: https://img.shields.io/badge/License-MIT-lavender.svg

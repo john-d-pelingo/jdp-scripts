@@ -32,9 +32,10 @@ Then, add `@jdp-dev/eslint-config` to the `"extends"` array in your
 
 ## License
 
-[MIT][license] &copy; 2020-present
+[MIT][license] &copy; [John Darryl Pelingo][me]
 
 [license]: ../../LICENSE
+[me]: https://johndpelingo.com/
 [npm]: https://npmjs.org/package/@jdp-dev/eslint-config
 [shield-github-build-status]:
   https://github.com/john-d-pelingo/jdp-scripts/workflows/npm-publish/badge.svg
