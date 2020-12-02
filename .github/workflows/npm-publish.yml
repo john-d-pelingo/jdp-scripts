@@ -16,6 +16,11 @@ jobs:
           node-version: 14
       - name: Install dependencies with yarn
         run: yarn install --frozen-lockfile
+      - name: Publish commitlint-config
+        uses: JS-DevTools/npm-publish@v1
+        with:
+          package: './packages/commitlint-config/package.json'
+          token: ${{ secrets.NPM_AUTH_TOKEN }}
       - name: Publish eslint-config
         uses: JS-DevTools/npm-publish@v1
         with:

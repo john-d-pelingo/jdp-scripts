@@ -4,6 +4,7 @@ My custom configurations when dealing with JavaScript applications.
 
 ## Script Configurations
 
+- [commitlint-config](./packages/commitlint-config)
 - [eslint-config](./packages/eslint-config)
 - [eslint-config-typescript](./packages/eslint-config-typescript)
 - [eslint-config-typescript-react](./packages/eslint-config-typescript-react)

@@ -5,6 +5,10 @@
       "type": "json"
     },
     {
+      "filename": "packages/commitlint-config/package.json",
+      "type": "json"
+    },
+    {
       "filename": "packages/eslint-config/package.json",
       "type": "json"
     },
