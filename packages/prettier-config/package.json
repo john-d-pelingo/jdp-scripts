@@ -20,7 +20,7 @@
   },
   "keywords": [
     "prettier",
-    "prettierconfig"
+    "prettierrc"
   ],
   "main": "index.json",
   "scripts": {
