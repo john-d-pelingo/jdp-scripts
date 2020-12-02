@@ -1,6 +1,6 @@
 {
   "name": "@jdp-dev/eslint-config-typescript-react",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "My shareable ESLint config for TypeScript React projects.",
   "private": false,
   "homepage": "https://github.com/john-d-pelingo/jdp-scripts",

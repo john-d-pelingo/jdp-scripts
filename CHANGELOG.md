@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.6...v0.0.7) (2020-12-02)
+
+
+### Features
+
+* do not extend eslint-config ([cebe150](https://github.com/john-d-pelingo/jdp-scripts/commit/cebe1508dee21086e635e7b672694178796c8876))
+* do not extend eslint-config-typescript ([18fc7ec](https://github.com/john-d-pelingo/jdp-scripts/commit/18fc7ecd41c768068a65b35a602be1554658ce50))
+
 ### [0.0.6](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.5...v0.0.6) (2020-12-01)
 
 
