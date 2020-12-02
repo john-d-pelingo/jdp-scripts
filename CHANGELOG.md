@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.10](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.9...v0.0.10) (2020-12-02)
+
+
+### Bug Fixes
+
+* use relative path ([6393c06](https://github.com/john-d-pelingo/jdp-scripts/commit/6393c06776991fa69cbed679c1f06c47191983f4))
+
 ### [0.0.9](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.8...v0.0.9) (2020-12-02)
 
 
