@@ -1,8 +1,9 @@
 name: npm-publish
+
 on:
-  push:
-    tags:
-      - '*'
+  release:
+    types: [created]
+
 jobs:
   npm-publish:
     name: Publish packages to NPM
