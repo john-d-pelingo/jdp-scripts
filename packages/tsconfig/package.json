@@ -22,7 +22,6 @@
     "typescript",
     "tsconfig"
   ],
-  "main": "index.js",
   "scripts": {
     "prepublishOnly": "npm run test",
     "test": "tape __tests__/*.js"
