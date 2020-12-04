@@ -16,9 +16,13 @@
     "node": ">=14"
   },
   "prettier": "./packages/prettier-config",
+  "standard-version": {
+    "scripts": {
+      "prerelease": "yarn test"
+    }
+  },
   "scripts": {
     "format": "prettier --write './**/*.{js,ts,json,yml,yaml,css,html}'",
-    "prerelease": "npm run test",
     "release": "standard-version",
     "test": "yarn workspaces run test"
   },
