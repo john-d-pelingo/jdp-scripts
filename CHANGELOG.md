@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.12](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.11...v0.0.12) (2020-12-04)
+
+
+### Features
+
+* add workflow to test app ([2ff8e46](https://github.com/john-d-pelingo/jdp-scripts/commit/2ff8e46622383237b099746ac2c23060ba5d03b7))
+* do not export index ([a0473fa](https://github.com/john-d-pelingo/jdp-scripts/commit/a0473fa3a83e14727c3e61d351d6e6925b04dc9f))
+* publish only on release ([24db249](https://github.com/john-d-pelingo/jdp-scripts/commit/24db2493d4869a8bb3fec8082561c749d02cd973))
+
 ### [0.0.11](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.10...v0.0.11) (2020-12-02)
 
 
