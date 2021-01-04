@@ -1,6 +1,6 @@
 {
   "name": "@jdp-dev/eslint-config",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "My shareable ESLint config for JavaScript projects.",
   "private": false,
   "homepage": "https://github.com/john-d-pelingo/jdp-scripts",
