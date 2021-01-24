@@ -31,6 +31,6 @@
     "prettier": "^2.2.1"
   },
   "devDependencies": {
-    "tape": "^5.0.1"
+    "tape": "^5.1.1"
   }
 }

@@ -39,6 +39,6 @@
     "eslint-plugin-import": "^2.22.1"
   },
   "devDependencies": {
-    "tape": "^5.0.1"
+    "tape": "^5.1.1"
   }
 }
