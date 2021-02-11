@@ -24,6 +24,8 @@
   "scripts": {
     "format": "prettier --write './**/*.{js,ts,json,yml,yaml,css,html}'",
     "postinstall": "husky install",
+    "postpublish": "pinst --enable",
+    "prepublishOnly": "pinst --disable",
     "release": "standard-version",
     "test": "yarn workspaces run test"
   },
@@ -32,6 +34,7 @@
     "@commitlint/config-conventional": "^11.0.0",
     "husky": "^5.0.9",
     "lint-staged": "^10.5.4",
+    "pinst": "^2.1.4",
     "prettier": "^2.2.1",
     "standard-version": "^9.0.0",
     "tape": "^5.1.1"
