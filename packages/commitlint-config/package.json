@@ -1,6 +1,6 @@
 {
   "name": "@jdp-dev/commitlint-config",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "My shareable commitlint config.",
   "private": false,
   "homepage": "https://github.com/john-d-pelingo/jdp-scripts",
