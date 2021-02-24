@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.16](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.15...v0.0.16) (2021-02-24)
+
+
+### Features
+
+* add pinst for public package ([a9eaa14](https://github.com/john-d-pelingo/jdp-scripts/commit/a9eaa14111ede1a48508c6a5712b20a9906cb501))
+* upgrade husky to 5 ([ba399d3](https://github.com/john-d-pelingo/jdp-scripts/commit/ba399d35e6b8b49e54e9b901fdc314c7e22a0108))
+
 ### [0.0.15](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.14...v0.0.15) (2021-02-11)
 
 ### [0.0.14](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.13...v0.0.14) (2021-01-04)

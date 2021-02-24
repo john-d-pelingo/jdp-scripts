@@ -1,6 +1,6 @@
 {
   "name": "@jdp-dev/eslint-config-typescript",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "My shareable ESLint config for TypeScript projects.",
   "private": false,
   "homepage": "https://github.com/john-d-pelingo/jdp-scripts",
