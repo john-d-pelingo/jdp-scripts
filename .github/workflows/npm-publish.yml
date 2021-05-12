@@ -20,32 +20,32 @@ jobs:
       - name: Install dependencies with yarn
         run: yarn install --frozen-lockfile
       - name: Publish commitlint-config
-        uses: JS-DevTools/npm-publish@v1
+        uses: JS-DevTools/npm-publish@v1.4.3
         with:
           package: './packages/commitlint-config/package.json'
           token: ${{ secrets.NPM_AUTH_TOKEN }}
       - name: Publish eslint-config
-        uses: JS-DevTools/npm-publish@v1
+        uses: JS-DevTools/npm-publish@v1.4.3
         with:
           package: './packages/eslint-config/package.json'
           token: ${{ secrets.NPM_AUTH_TOKEN }}
       - name: Publish eslint-config-typescript
-        uses: JS-DevTools/npm-publish@v1
+        uses: JS-DevTools/npm-publish@v1.4.3
         with:
           package: './packages/eslint-config-typescript/package.json'
           token: ${{ secrets.NPM_AUTH_TOKEN }}
       - name: Publish eslint-config-typescript-react
-        uses: JS-DevTools/npm-publish@v1
+        uses: JS-DevTools/npm-publish@v1.4.3
         with:
           package: './packages/eslint-config-typescript-react/package.json'
           token: ${{ secrets.NPM_AUTH_TOKEN }}
       - name: Publish prettier-config
-        uses: JS-DevTools/npm-publish@v1
+        uses: JS-DevTools/npm-publish@v1.4.3
         with:
           package: './packages/prettier-config/package.json'
           token: ${{ secrets.NPM_AUTH_TOKEN }}
       - name: Publish tsconfig
-        uses: JS-DevTools/npm-publish@v1
+        uses: JS-DevTools/npm-publish@v1.4.3
         with:
           package: './packages/tsconfig/package.json'
           token: ${{ secrets.NPM_AUTH_TOKEN }}
