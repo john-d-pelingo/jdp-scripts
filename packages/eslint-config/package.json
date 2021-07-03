@@ -34,9 +34,9 @@
     "eslint-plugin-import": ">= 2"
   },
   "dependencies": {
-    "eslint": "^7.24.0",
-    "eslint-config-prettier": "^8.1.0",
-    "eslint-plugin-import": "^2.22.1"
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4"
   },
   "devDependencies": {
     "tape": "^5.2.2"
