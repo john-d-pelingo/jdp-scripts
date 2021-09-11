@@ -32,11 +32,11 @@
   "devDependencies": {
     "@commitlint/cli": "^13.0.0",
     "@commitlint/config-conventional": "^13.0.0",
-    "husky": "^7.0.1",
+    "husky": "^7.0.2",
     "lint-staged": "^11.1.1",
     "pinst": "^2.1.6",
     "prettier": "^2.3.2",
     "standard-version": "^9.3.1",
-    "tape": "^5.3.0"
+    "tape": "^5.3.1"
   }
 }
