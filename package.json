@@ -37,6 +37,6 @@
     "pinst": "^2.1.6",
     "prettier": "^2.3.2",
     "standard-version": "^9.3.1",
-    "tape": "^5.3.0"
+    "tape": "^5.3.1"
   }
 }
