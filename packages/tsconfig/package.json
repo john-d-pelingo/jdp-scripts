@@ -1,6 +1,6 @@
 {
   "name": "@jdp-dev/tsconfig",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "My shareable TypeScript config.",
   "private": false,
   "homepage": "https://github.com/john-d-pelingo/jdp-scripts",
