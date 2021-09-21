@@ -1,4 +1,4 @@
-# jdp-scripts [![GitHub Build Status][shield-github-build-status]][shield-github-build-status] [![MIT License][shield-license]][license]
+# jdp-scripts [![Publish packages to NPM][badge-publish-packages-to-npm-status]][workflow-publish-packages-to-npm] [![Test Application][badge-publish-packages-to-npm-status]][workflow-test-application] [![MIT License][shield-license]][license]
 
 My custom configurations when dealing with JavaScript applications.
 
@@ -15,8 +15,14 @@ My custom configurations when dealing with JavaScript applications.
 
 [MIT][license] &copy; [John Darryl Pelingo][me]
 
+[badge-publish-packages-to-npm-status]:
+  https://github.com/john-d-pelingo/jdp-scripts/actions/workflows/npm-publish.yml/badge.svg
+[badge-test-application-status]:
+  https://github.com/john-d-pelingo/jdp-scripts/actions/workflows/test-application.yml/badge.svg
 [license]: LICENSE
 [me]: https://johndpelingo.com/
-[shield-github-build-status]:
-  https://github.com/john-d-pelingo/jdp-scripts/workflows/npm-publish/badge.svg
 [shield-license]: https://img.shields.io/badge/License-MIT-lavender.svg
+[workflow-publish-packages-to-npm]:
+  https://github.com/john-d-pelingo/jdp-scripts/actions/workflows/npm-publish.yml
+[workflow-test-application]:
+  https://github.com/john-d-pelingo/jdp-scripts/actions/workflows/test-application.yml
