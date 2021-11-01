@@ -36,7 +36,7 @@
     "lint-staged": "^11.1.2",
     "pinst": "^2.1.6",
     "prettier": "^2.4.1",
-    "standard-version": "^9.3.1",
+    "standard-version": "^9.3.2",
     "tape": "^5.3.1"
   }
 }
