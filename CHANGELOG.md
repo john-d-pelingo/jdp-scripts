@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.19...v1.0.0) (2021-11-06)
+
+
+### Features
+
+* add more rules (read more) ([19aebcf](https://github.com/john-d-pelingo/jdp-scripts/commit/19aebcfeb8a2a3deb7e58bbe4458f1a8a231f729))
+* upgrade to eslint 8 ([55e1a39](https://github.com/john-d-pelingo/jdp-scripts/commit/55e1a39319df4d8e292ee7f14df76aecab9b746e))
+
 ### [0.0.19](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.18...v0.0.19) (2021-09-13)
 
 ### [0.0.18](https://github.com/john-d-pelingo/jdp-scripts/compare/v0.0.17...v0.0.18) (2021-07-03)
