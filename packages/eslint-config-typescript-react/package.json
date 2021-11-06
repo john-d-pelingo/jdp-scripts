@@ -33,7 +33,7 @@
     "@typescript-eslint/eslint-plugin": ">= 5",
     "eslint": ">= 8",
     "eslint-plugin-import": ">= 2",
-    "eslint-plugin-jsx-a11y": ">= 7",
+    "eslint-plugin-jsx-a11y": ">= 6",
     "eslint-plugin-react": ">= 7",
     "eslint-plugin-react-hooks": ">= 4",
     "react": ">= 17",
