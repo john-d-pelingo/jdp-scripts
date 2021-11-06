@@ -1,10 +1,10 @@
 const eslint = require('eslint')
 const test = require('tape')
 
-test('load config in eslint to validate all rule syntax is correct', (t) => {
-  const cli = new eslint.CLIEngine({
+test('load config in eslint to validate all rule syntax is correct', async (t) => {
+  const cli = new eslint.ESLint({
     useEslintrc: false,
-    configFile: 'index.js',
+    overrideConfigFile: 'index.js',
   })
 
   const code = `
@@ -16,10 +16,16 @@ test('load config in eslint to validate all rule syntax is correct', (t) => {
     const name = getName()
     console.log(\`Hello, \${name}\${exclamationMark}\`)
   }
+
+  greet()
 `
 
-  const result = cli.executeOnText(code)
+  const result = await cli.lintText(code)
 
-  t.equal(result.errorCount, 0)
+  const errorCount = result.reduce((acc, r) => {
+    return acc + r.errorCount
+  }, 0)
+
+  t.equal(errorCount, 0)
   t.end()
 })

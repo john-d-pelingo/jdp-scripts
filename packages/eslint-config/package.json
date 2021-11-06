@@ -30,13 +30,13 @@
     "test": "tape __tests__/*.js"
   },
   "peerDependencies": {
-    "eslint": ">= 7",
+    "eslint": ">= 8",
     "eslint-plugin-import": ">= 2"
   },
   "dependencies": {
-    "eslint": "^7.32.0",
+    "eslint": "^8.2.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-import": "^2.24.2"
+    "eslint-plugin-import": "^2.25.2"
   },
   "devDependencies": {
     "tape": "^5.3.1"

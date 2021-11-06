@@ -28,7 +28,7 @@
     "test": "tape __tests__/*.js"
   },
   "peerDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.4.1"
   },
   "devDependencies": {
     "tape": "^5.3.1"

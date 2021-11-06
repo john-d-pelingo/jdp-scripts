@@ -15,8 +15,23 @@ const config = {
     'plugin:import/typescript',
   ],
   rules: {
+    '@typescript-eslint/ban-ts-comment': [
+      'error',
+      {
+        'ts-expect-error': 'allow-with-description',
+        'ts-ignore': true,
+        'ts-nocheck': true,
+        'ts-check': false,
+      },
+    ],
+    '@typescript-eslint/consistent-type-imports': 'error',
     '@typescript-eslint/explicit-function-return-type': 'off',
+    '@typescript-eslint/no-unused-vars': [
+      'error',
+      { ignoreRestSiblings: true, argsIgnorePattern: '^_' },
+    ],
     '@typescript-eslint/no-var-requires': 'off',
+    '@typescript-eslint/prefer-optional-chain': 'error',
     'import/no-default-export': 'error',
     'import/no-deprecated': 'warn',
     'import/order': [

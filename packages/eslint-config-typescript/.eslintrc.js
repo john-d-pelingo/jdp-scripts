@@ -31,7 +31,6 @@ const config = {
     ],
     '@typescript-eslint/no-var-requires': 'off',
     '@typescript-eslint/prefer-optional-chain': 'error',
-    '@typescript-eslint/prefer-nullish-coalescing': 'error',
     'import/no-default-export': 'error',
     'import/no-deprecated': 'warn',
     'import/order': [
