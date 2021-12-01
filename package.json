@@ -33,7 +33,7 @@
     "@commitlint/cli": "^14.1.0",
     "@commitlint/config-conventional": "^14.1.0",
     "husky": "^7.0.4",
-    "lint-staged": "^11.2.6",
+    "lint-staged": "^12.1.2",
     "pinst": "^2.1.6",
     "prettier": "^2.4.1",
     "standard-version": "^9.3.2",
