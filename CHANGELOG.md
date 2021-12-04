@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/john-d-pelingo/jdp-scripts/compare/v1.0.2...v1.1.0) (2021-12-04)
+
+
+### Features
+
+* upgrade dependencies ([678628d](https://github.com/john-d-pelingo/jdp-scripts/commit/678628d86126d78168e1db774089fe9b7fc2112f))
+
 ### [1.0.2](https://github.com/john-d-pelingo/jdp-scripts/compare/v1.0.1...v1.0.2) (2021-11-06)
 
 
