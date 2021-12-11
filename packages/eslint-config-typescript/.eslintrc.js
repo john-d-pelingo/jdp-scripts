@@ -24,6 +24,12 @@ const config = {
       },
     ],
     '@typescript-eslint/consistent-type-imports': 'error',
+    '@typescript-eslint/consistent-type-assertions': [
+      'error',
+      {
+        assertionStyle: 'never',
+      },
+    ],
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/no-unused-vars': [
       'error',
