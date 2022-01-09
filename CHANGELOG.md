@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/john-d-pelingo/jdp-scripts/compare/v1.1.0...v1.2.0) (2022-01-09)
+
+
+### Features
+
+* make type casts result to error ([5a06d62](https://github.com/john-d-pelingo/jdp-scripts/commit/5a06d62f254f534d9273cca37cb090aa94df30f2))
+
 ## [1.1.0](https://github.com/john-d-pelingo/jdp-scripts/compare/v1.0.2...v1.1.0) (2021-12-04)
 
 
