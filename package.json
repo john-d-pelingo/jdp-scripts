@@ -30,7 +30,7 @@
     "test": "yarn workspaces run test"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.0.2",
+    "@commitlint/cli": "^16.2.4",
     "@commitlint/config-conventional": "^16.0.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.1.7",
