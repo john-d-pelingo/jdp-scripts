@@ -32,10 +32,10 @@
   "devDependencies": {
     "@commitlint/cli": "^16.0.2",
     "@commitlint/config-conventional": "^16.0.0",
-    "husky": "^7.0.4",
-    "lint-staged": "^12.1.7",
-    "pinst": "^2.1.6",
-    "prettier": "^2.5.1",
+    "husky": "^9.0.0",
+    "lint-staged": "^15.0.0",
+    "pinst": "^3.0.0",
+    "prettier": "^3.0.0",
     "standard-version": "^9.3.2",
     "tape": "^5.4.0"
   }
