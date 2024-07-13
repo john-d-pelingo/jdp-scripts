@@ -1,6 +1,25 @@
 # Changelog
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+
+## [1.3.0](https://github.com/john-d-pelingo/jdp-scripts/compare/v1.2.0...v1.3.0) (2024-07-13)
+
+
+### Features
+
+* update commitlint ([6e63ed0](https://github.com/john-d-pelingo/jdp-scripts/commit/6e63ed041f3367252f6fddd537e15cfbd5ae35a8))
+* update husky ([f0316e7](https://github.com/john-d-pelingo/jdp-scripts/commit/f0316e775ab0545ae87f6febea8cff4474cb018f))
+* update lint-staged ([6d649c5](https://github.com/john-d-pelingo/jdp-scripts/commit/6d649c55f0613fab9a7a605b60f41f28dfc6b02a))
+* update prettier ([c4a3e36](https://github.com/john-d-pelingo/jdp-scripts/commit/c4a3e36ec90674ac3b4256e89a874afcf0acd09c))
+* upgrade commit and tag version ([62cfc7d](https://github.com/john-d-pelingo/jdp-scripts/commit/62cfc7d97ddca6301a82c9856ba54061b6659538))
+* upgrade packages ([904762c](https://github.com/john-d-pelingo/jdp-scripts/commit/904762c846b0eb0de9a2370a1e71155296ace0a7))
+* upgrade pinst ([792948b](https://github.com/john-d-pelingo/jdp-scripts/commit/792948b90d3867b4f5560c10de63d25eab219ee7))
+* upgrade tape ([72a4186](https://github.com/john-d-pelingo/jdp-scripts/commit/72a4186f2ba8d43f69fc7467324f8e5fff9d57b1))
+
+
+### Bug Fixes
+
+* command to release ([1962a96](https://github.com/john-d-pelingo/jdp-scripts/commit/1962a96b0d8d833a399e355deadfb3b1274ee9d1))
 
 ## [1.2.0](https://github.com/john-d-pelingo/jdp-scripts/compare/v1.1.0...v1.2.0) (2022-01-09)
 
