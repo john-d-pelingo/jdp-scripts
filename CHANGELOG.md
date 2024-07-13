@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.4.0](https://github.com/john-d-pelingo/jdp-scripts/compare/v1.3.0...v1.4.0) (2024-07-13)
+
+
+### Features
+
+* use node 20 ([6b3f201](https://github.com/john-d-pelingo/jdp-scripts/commit/6b3f20126e001e3ce87598e98538ab04825142cf))
+
 ## [1.3.0](https://github.com/john-d-pelingo/jdp-scripts/compare/v1.2.0...v1.3.0) (2024-07-13)
 
 
