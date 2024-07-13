@@ -16,7 +16,7 @@
     "node": ">=14"
   },
   "prettier": "./packages/prettier-config",
-  "standard-version": {
+  "commit-and-tag-version": {
     "scripts": {
       "prerelease": "yarn test"
     }
@@ -36,7 +36,7 @@
     "lint-staged": "^15.2.7",
     "pinst": "^3.0.0",
     "prettier": "^3.3.3",
-    "commit-and-tag-version": "^9.5.0",
+    "commit-and-tag-version": "^12.4.1",
     "tape": "^5.4.0"
   }
 }
