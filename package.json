@@ -37,6 +37,6 @@
     "pinst": "^3.0.0",
     "prettier": "^3.3.3",
     "commit-and-tag-version": "^12.4.1",
-    "tape": "^5.4.0"
+    "tape": "^5.8.1"
   }
 }
