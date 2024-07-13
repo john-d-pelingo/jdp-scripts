@@ -28,10 +28,10 @@
     "test": "tape __tests__/*.js"
   },
   "peerDependencies": {
-    "@commitlint/cli": ">= 15.0.0",
-    "@commitlint/config-conventional": ">= 15.0.0"
+    "@commitlint/cli": ">= 19.0.0",
+    "@commitlint/config-conventional": ">= 19.0.0"
   },
   "devDependencies": {
-    "tape": "^5.4.0"
+    "tape": "^5.8.1"
   }
 }
