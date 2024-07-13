@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=14"
+    "node": ">=20"
   },
   "prettier": "./packages/prettier-config",
   "commit-and-tag-version": {
